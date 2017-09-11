@@ -1,2 +1,3 @@
 #!/bin/bash
 read -p "Wie heisste: " name
+echo "Hallo $name!"
