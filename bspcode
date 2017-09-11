@@ -1,7 +1,12 @@
 #!/bin/bash
 read -p "Wie heisste: " name
 a
+1
 b
+2
 c
+3
 d
+45
+6
 echo "Heello $name!"
