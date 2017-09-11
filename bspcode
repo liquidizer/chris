@@ -1,3 +1,9 @@
 #!/bin/bash
 read -p "Wie heisste: " name
+1
+2
+3
+4
+5
+6
 echo "Heello $name!"
